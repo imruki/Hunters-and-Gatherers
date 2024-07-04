@@ -5,7 +5,7 @@
 Hunters and Gatherers is a Java-based game developed as a course project, featuring a GUI built with JavaFX. It is a variant of the famous board game Carcassonne, set in a prehistoric era.
 
 ## About
-Hunters and Gatherers is a strategic tile-placement game inspired by Carcassonne, where players build landscapes with tiles and score points by claiming features such as forests, rivers, and meadows. The game is set in the Stone Age, emphasizing resource management and strategy.
+Hunters and Gatherers is a strategic tile-placement game inspired by Carcassonne, where players build landscapes with tiles and score points by claiming features such as forests, rivers, and meadows. The game is set in the Stone Age.
 
 ## Features
 - Engaging gameplay mechanics
